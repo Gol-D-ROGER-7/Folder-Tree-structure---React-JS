@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Domine&family=PT+Serif:ital,wght@0,700;1,400&display=swap');
+
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+
+}
+
+
+.container {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 100px;
+}
+
+.f-large{
+  font-size: large;
+  font-family: 'Domine', serif;
+}
